@@ -1,4 +1,4 @@
-package com.robert.reflection.typevariable;
+package com.robert.reflection.type.typevariable;
 
 import java.io.Closeable;
 import java.io.InputStream;

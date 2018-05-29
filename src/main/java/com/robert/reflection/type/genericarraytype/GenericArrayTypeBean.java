@@ -1,4 +1,4 @@
-package com.robert.reflection.genericarraytype;
+package com.robert.reflection.type.genericarraytype;
 
 import com.robert.reflection.Person;
 

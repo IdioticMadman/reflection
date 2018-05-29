@@ -1,4 +1,4 @@
-package com.robert.reflection.wildcardtype;
+package com.robert.reflection.type.wildcardtype;
 
 import com.robert.reflection.util.PrintUtils;
 

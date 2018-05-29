@@ -1,4 +1,4 @@
-package com.robert.reflection.parameterizedtype;
+package com.robert.reflection.type.parameterizedtype;
 
 import com.robert.reflection.util.PrintUtils;
 

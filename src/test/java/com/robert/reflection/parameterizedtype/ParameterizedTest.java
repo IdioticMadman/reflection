@@ -1,5 +1,7 @@
 package com.robert.reflection.parameterizedtype;
 
+import com.robert.reflection.type.parameterizedtype.ParameterizedBean;
+
 import org.junit.Assert;
 import org.junit.Test;
 
